@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "799790647806",
+    "firebase_url": "https://chato-5cf2e.firebaseio.com",
+    "project_id": "chato-5cf2e",
+    "storage_bucket": "chato-5cf2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799790647806:android:fff84dcb670bcb5f",
+        "android_client_info": {
+          "package_name": "com.example.shadowbez.chato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799790647806-a6drh424evdo12lo5id0ld2pdops0lle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shadowbez.chato",
+            "certificate_hash": "bfcb70dfe951ccbfec62faeb239889db526005c9"
+          }
+        },
+        {
+          "client_id": "799790647806-mqmcquq3u1k7eeh2p4lsneou5ul9adec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtOYYxxzhS4ZdeBcw8d01Q0SbBmfjIVos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799790647806-mqmcquq3u1k7eeh2p4lsneou5ul9adec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
